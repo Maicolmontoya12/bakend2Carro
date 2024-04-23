@@ -1,7 +1,7 @@
-# API de Bomberos
+# API-bakend carro
 
 ## Descripción
-Esta API es un intento de registrar los bomberos, vehiculos, y rangos
+en esta api se utiliza objetos tipo carro
 
 ## Base de Datos
 
